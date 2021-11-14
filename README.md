@@ -1,5 +1,3 @@
-# -Bx24
-
 ## <a href="https://stargus.github.io/-Bx24/">Форма с интеграцией в Bx24</a> 
 ## <a href= "https://lukino.ru/"> Лукино </a>
 
